@@ -3,14 +3,15 @@ body {
   }
   
   h1 {
-    color: black;
+    color: white;
     text-align: center;
   }
   
   p {
+    color: white;
     font-family: verdana;
     font-size: 20px;
   }
   hr {
-      color: black;
+      color: maroon;
   }
