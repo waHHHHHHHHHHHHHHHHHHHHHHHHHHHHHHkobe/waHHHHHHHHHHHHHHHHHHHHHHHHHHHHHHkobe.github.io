@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(123,17,19);
+    background-color: rgb(128, 0, 0);
     margin: 0px;
     padding: 0px;
     border: 0px;
@@ -16,7 +16,7 @@ body {
     font-size: 20px;
   }
   hr {
-      color: maroon;
+      color: rbg(128, 23, 50);
   }
 h2{
     color: rgb(255, 255, 255);
