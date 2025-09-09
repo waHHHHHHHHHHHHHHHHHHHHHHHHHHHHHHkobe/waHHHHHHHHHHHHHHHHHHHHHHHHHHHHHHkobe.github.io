@@ -26,12 +26,12 @@ img{
     padding-left: 20px;
 }
 
-wikia-gallery-caption {
+gallery-cap {
     font-weight: 700;
     text-align: center;
 }
 
-wikia-gallery-item {
+gallery {
     box-sizing: initial;
     display: inline-block;
     margin: 1px;
