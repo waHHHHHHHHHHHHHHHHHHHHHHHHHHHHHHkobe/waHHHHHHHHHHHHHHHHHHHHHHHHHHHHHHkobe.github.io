@@ -31,9 +31,13 @@ wikia-gallery-caption {
     text-align: center;
 }
 
-wikia-gallery-caption {
-    font-weight: 700;
-    text-align: center;
+wikia-gallery-item {
+    box-sizing: initial;
+    display: inline-block;
+    margin: 1px;
+    padding: 1em;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
 }
-
 
