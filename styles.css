@@ -31,7 +31,7 @@ gallery-cap {
     text-align: center;
 }
 
-gallery {
+gallery-item {
     box-sizing: initial;
     display: inline-block;
     margin: 1px;
@@ -39,5 +39,12 @@ gallery {
     text-align: left;
     vertical-align: top;
     white-space: normal;
+}
+div {
+    border: 0;
+    font: normal normal normal 100% inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: initial;
 }
 
